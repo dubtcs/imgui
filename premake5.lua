@@ -3,8 +3,8 @@ project "imgui"
     kind "StaticLib"
     language "C++"
 
-    targetdir("bin/"..output.."/%{proj.name}");
-    objdir("bin-int/"..output.."/%{proj.name}")
+    targetdir("bin/"..output.."/%{prj.name}");
+    objdir("bin-int/"..output.."/%{prj.name}")
 
     files {
         "imconfig.h",
