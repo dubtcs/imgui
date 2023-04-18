@@ -54,3 +54,15 @@ examples/example_sdl_metal/example_sdl_metal
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
+
+.vs/
+bin/
+bin-int/
+
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+*.json
